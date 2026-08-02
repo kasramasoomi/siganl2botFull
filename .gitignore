@@ -1,0 +1,12 @@
+.env
+*.env
+users.db
+*.db
+*.log
+cookies.txt
+cookies_old2.txt
+information.text
+downloads/
+photos/
+__pycache__/
+.DS_Store
